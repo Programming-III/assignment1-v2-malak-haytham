@@ -25,12 +25,7 @@ public:
         cout<<id<<endl;
 
     }
-};erson class here
-
-
-
-
-
+};
 
 
 
